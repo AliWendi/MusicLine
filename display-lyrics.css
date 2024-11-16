@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header-container-eng{
+    margin-top: 80px;
+    width: fit-content;
+    padding: 10px 20px;
+    display: flex;
+    align-self: center;
+    justify-content: space-around;
+    background-color: #c65559;
+    padding: 20xp 10px;
+    border-radius: 10px;
+}
+.header-container-eng img{
+   height: 120px;
+   border-radius: 4px;
+}
+.header-container-eng h3{
+    align-self: center;
+   margin-left: 10px;
+   color: azure;
+}
+
+.lyrics-text{
+    width: 600px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 140%;
+    color: #fff6ee;
+    align-self: center;
+    justify-self: center;
+    font-weight: normal;
+}
+
+p{
+    line-height: 35px;
+}
